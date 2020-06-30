@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Albion Stats",
+    "slug": "albionstats",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "userInterfaceStyle": "light",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mobile.albionstats",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "userInterfaceStyle": "light",
+      "package": "com.mobile.albionstats",
+      "versionCode": 1
+    },
+    "web": {
+      "userInterfaceStyle": "light"
+    }
+  }
+}
