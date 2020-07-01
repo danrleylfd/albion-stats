@@ -12,7 +12,12 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/719956023368220672/727945618647154688/screener_1593624969955.png?width=238&height=428" />
+  <img src="https://media.discordapp.net/attachments/719956023368220672/727948489438527649/screener_1593626764031.png?width=238&height=428" />
+  <img src="https://media.discordapp.net/attachments/719956023368220672/727945619062128751/screener_1593624998849.png?width=238&height=428" />
+  <img src="https://media.discordapp.net/attachments/719956023368220672/727948489807495178/screener_1593626819406.png?width=238&height=428" />
+</div>
 
 ## :rocket: Tecnologias
 
